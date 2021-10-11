@@ -1,33 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-=======
->>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
-# inventory
+# INVENTORY
 Demo application inventory for sonatafy probe
 Developed by: Fernando Torres Valencia 20211011
 emails: fernando.torres@ieconsultores.com, fernando_torres36@yahoo.com
@@ -106,7 +77,3 @@ The register of car is for every Dealer
 I am working in the folder test for ingress the differents type of test, I don't have many experience about this, I'm old guard on this issue, messages like flags.
 
 Additional note: in the folder you can find the file commands.txt. I created file to store the command used for this solution.
-<<<<<<< HEAD
->>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
-=======
->>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
