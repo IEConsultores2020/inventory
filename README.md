@@ -66,3 +66,5 @@ All users autheticated can see the data (only exists roles <em>User</em> or Admi
 
 
 I am working in the folder test for ingress the differents type of test, I don't have many experience about this, I'm old guard on this issue, messages like flags.
+
+Additional note: in the folder you can find the file commands.txt. I created file to store the command used for this solution.
