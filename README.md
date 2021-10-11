@@ -58,12 +58,21 @@ Please include at least two tests
 You may choose which kind of tests to write (unit, integration...)
 
 ### Comments o the solutions:
+
 The user need authenticate for ingress to app.
 If you are not authenticated, you need create a new user or login with the users seeds when you execute correctly the command seed, you can verify the correct solutions developed.
+
+![InventoryERModel](https://user-images.githubusercontent.com/11007151/136845310-f0c4acab-dfa1-4bc6-9ac7-6e97bf1a2386.png)
+
 
 
 All users autheticated can see the data (only exists roles <em>User</em> or Admin)
 
+
+![Flowchart InventoryCars](https://user-images.githubusercontent.com/11007151/136847161-34786245-f90f-4cd7-a9c0-56491608072d.png)
+
+
+The register of car is for every Dealer
 
 I am working in the folder test for ingress the differents type of test, I don't have many experience about this, I'm old guard on this issue, messages like flags.
 
