@@ -5,7 +5,7 @@ emails: fernando.torres@ieconsultores.com, fernando_torres36@yahoo.com
 
 ### Versions used in this solution:
 
-ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-linux]
+ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-linux] 
 
 Rails 6.1.4.1
 
