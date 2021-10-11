@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -24,6 +25,8 @@ Things you may want to cover:
 
 * ...
 =======
+=======
+>>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
 # inventory
 Demo application inventory for sonatafy probe
 Developed by: Fernando Torres Valencia 20211011
@@ -103,4 +106,7 @@ The register of car is for every Dealer
 I am working in the folder test for ingress the differents type of test, I don't have many experience about this, I'm old guard on this issue, messages like flags.
 
 Additional note: in the folder you can find the file commands.txt. I created file to store the command used for this solution.
+<<<<<<< HEAD
+>>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
+=======
 >>>>>>> 11e52476bf6e34a66bfbd4e4beb496b6b91b2ba1
