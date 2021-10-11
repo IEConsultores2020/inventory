@@ -1,0 +1,14 @@
+<table>
+  <thead>
+      <tr>
+        <td><%= car.name %> |</td>
+        <td><%= car.yearmodel %> |</td>
+        <td><%= car.price %> |</td>
+        <td><%= car.depreciation %> |</td>
+        <% if current_user.role == 'Admin' %> 
+          <td><%= link_to 'Destroy', car, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <% end %>
+      </tr>
+  </thead>
+</table>
+

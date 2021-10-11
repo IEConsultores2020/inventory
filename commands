@@ -1,0 +1,44 @@
+___ command for build app
+
+rails generate scaffold  User name:string role:string
+
+rails generate scaffold Dealer name:string
+
+rails generate scaffold Car name:string yearmodel:integer price:decimal depreciation:decimal
+
+rails g migration add_id_dealer_to_cars id_dealer:integer
+
+rails g migration rename_id_dealer_to_dealer_id_in_cars  #need modify file code migration.
+
+rails g migration RemoveDealer_idFromCar dealer_id:integer
+
+rails g migration AddDealerToCars dealer:references	
+
+____ devise
+
+rails g user Addemail:string password_hash:string password_salt:string
+
+rails generate migration AddDetailsToUsers email:string password_hash:string password_salt:string
+
+rails g controller sessions new
+
+
+___used commands
+
+rake db:migrate RAILS_ENV=test
+
+rake db:seed RAILS_ENV=test
+
+rails server -e test
+
+rails db:console -e test
+
+http://0.0.0.0:3000
+
+rails db:seed -e test
+
+
+___for test
+
+rails test test/models/cars_test.rb
+

@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Dealer:</strong>
+  <%= @car.dealer.name %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @car.name %>
+</p>
+
+<p>
+  <strong>Yearmodel:</strong>
+  <%= @car.yearmodel %>
+</p>
+
+<p>
+  <strong>Price:</strong>
+  <%= @car.price %>
+</p>
+
+<p>
+  <strong>Depreciation:</strong>
+  <%= @car.depreciation %>
+</p>
+<%= link_to 'Back', cars_path %>
