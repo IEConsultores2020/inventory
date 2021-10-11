@@ -3,14 +3,20 @@ Demo application inventory for sonatafy probe
 Developed by: Fernando Torres Valencia 20211011
 emails: fernando.torres@ieconsultores.com, fernando_torres36@yahoo.com
 
-Versions used in this solution:
+### Versions used in this solution:
+
 ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-linux]
+
 Rails 6.1.4.1
+
 SQLite version 3.8.11 2015-07-27 13:49:41
 
-Installation and seed
+### Installation and seed
+
 $bundle install
+
 $rake db:migrate
+
 $rake db:seed 
 
 Users created and additional information:
